@@ -1,0 +1,10 @@
+python-dotenv
+ipykernel
+ipywidgets
+requests
+openai
+beautifulsoup4
+ollama
+jupyterlab
+duckduckgo_search
+ddgs
